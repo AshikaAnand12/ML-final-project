@@ -24,3 +24,4 @@
 Setup Steps:
 1. Enter input of a company name in the input section
 2. Check output (output.csv) in the files section of the colab
+3. overall_sentiment in csv represents if it is good for investment or not
